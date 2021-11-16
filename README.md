@@ -30,5 +30,5 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________________
 ## 📈 Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanguarino)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanguarino)](https://github.com/anuraghazra/github-readme-stats)
 
