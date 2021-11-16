@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hola! I'm **Juan** <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
+________________________________________________________________________________________________________________________________________________________________________________
 
-<!--
-**juanguarino/juanguarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Currently working at PKUP as Data Analyst Intern 👨🏻‍💻 
+- Master of Data Sciene Student @ University of Canberra 📊📚
+- Accounting background 💲
+________________________________________________________________________________________________________________________________________________________________________________
 
-Here are some ideas to get you started:
+### 💻 My Skill Stack:
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white!)[Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)[R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+________________________________________________________________________________________________________________________________________________________________________________
+
+### 📲 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosguarino/)![Gmail](https://img.shields.io/badge/guarinojuancarlos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juannguarino/)
+________________________________________________________________________________________________________________________________________________________________________________
