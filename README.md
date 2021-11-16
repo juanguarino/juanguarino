@@ -25,9 +25,9 @@ ________________________________________________________________________________
 
 ### 📲 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosguarino/)
-[![Gmail](https://img.shields.io/badge/guarinojuancarlos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ ![Gmail](https://img.shields.io/badge/guarinojuancarlos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juannguarino/)
 
 ________________________________________________________________________________________________________________________________________________________________________________
 ## 📈 Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndleah&layout=compact)](https://github.com/juanguarino)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanguarino&layout=compact)](https://github.com/juanguarino)
